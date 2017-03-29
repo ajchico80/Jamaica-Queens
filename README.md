@@ -47,3 +47,6 @@ This project for is for Seminar 4
 - Sewer: 3058
 - Damaged Tree: 2765
 - Plumbing: 2752
+
+## Map of complaints in Jamaica, Queens 
+- https://github.com/ajchico80/Jamaica-Queens/blob/master/Screen%20Shot%202017-03-08%20at%2010.23.13%20AM.png
