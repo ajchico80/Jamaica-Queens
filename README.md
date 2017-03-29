@@ -35,3 +35,15 @@ This project for is for Seminar 4
 - plateid 86011JV has 77 violations.
 - plateid 63593MC has 76 violations.
 - plateid K26671K has 70 violations.
+
+## Top 311 complaints
+- Noise Residential: 5631
+- Blocked Driveway: 4897
+- Street Condition:4826
+- Heating: 3614
+- Street Light Condition: 3317
+- Water System: 3219
+- Heat/Hot Water: 3097
+- Sewer: 3058
+- Damaged Tree: 2765
+- Plumbing: 2752
