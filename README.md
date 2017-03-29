@@ -23,3 +23,15 @@ This project for is for Seminar 4
 - Asian 17.2% 
 - Mixed 3.2% 
 - Other 5.0%
+
+## Top ten parking tickets by license plate
+- plateid N/A has 174 violations.
+- plateid 91445JV has 153 violations.
+- plateid 88700JA has 105 violations.
+- plateid 88808JA has 105 violations.
+- plateid 1757735 has 99 violations.
+- plateid MY2015 has 99 violations.
+- plateid 62480JM has 81 violations.
+- plateid 86011JV has 77 violations.
+- plateid 63593MC has 76 violations.
+- plateid K26671K has 70 violations.
